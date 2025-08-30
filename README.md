@@ -14,6 +14,8 @@ It helps you manage your income and expenses, track your balance, and keep a rec
 - Built only with **HTML, CSS, and JavaScript**.
 
 ---------------------------
+<img width="1920" height="1308" alt="screencapture-127-0-0-1-5500-index-html-2025-08-30-09_16_22" src="https://github.com/user-attachments/assets/3767c0b1-743e-4547-a55c-a3af091db622" />
+
 
 ## 🚀 Try & Use
 
